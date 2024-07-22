@@ -1,6 +1,6 @@
-Installation and Configuration (Oracle Linux and Ubuntu)
+# Installation and Configuration (Oracle Linux and Ubuntu)
 
-Follow this website for postgresql  for related OS: 
+Follow this website for downloading postgresql  for related OS: 
 
 [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
 
