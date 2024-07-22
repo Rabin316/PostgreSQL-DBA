@@ -1,12 +1,11 @@
 # Streaming Replication for Oracle Linux 7.9
 
-| Server 1 (Master Server)
- | Server 2 (Slave Server)
- |
-| --- | --- |
-| IP :  192.168.56.16
-OS: Oracle Linux 7.9 | IP :  192.168.56.16
-OS: Oracle Linux 7.9 |
+## Server Information
+
+| Server | IP Address    | OS              |
+|--------|---------------|-----------------|
+| Server 1 (Master Server) | 192.168.56.16 | Oracle Linux 7.9 |
+| Server 2 (Slave Server)  | 192.168.56.17 | Oracle Linux 7.9 |
 
 ## Setting Up Streaming Replication
 
